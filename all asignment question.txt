@@ -1,0 +1,3 @@
+                                                       ASSIGNMENT 1:GRAPH TRAVERSAL
+Q1# Write a java program to implement the breadth first search (BFS) algorithm for graph traversal
+Q2# Write a java program to implement the depth first search (DFS) algorithm for graph traversal
