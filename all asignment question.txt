@@ -1,3 +1,68 @@
                                                        ASSIGNMENT 1:GRAPH TRAVERSAL
 Q1# Write a java program to implement the breadth first search (BFS) algorithm for graph traversal
 Q2# Write a java program to implement the depth first search (DFS) algorithm for graph traversal
+
+ 1 Write a JAVA program to represent a graph using adjacency matrix. (Example 12.1)
+ 2 Write a JAVA program to represent a graph using adjacency matrix. (Example 12.2)
+ 3 Write a JAVA program to implement Depth First Search algorithm using stack. (Example 12.3)
+ 4 Write a JAVA program to implement Depth First Search algorithm using recursion.(Example 12.4)
+ 5 Write a JAVA program to implement the Breadth First Search (BFS) algorithm.(Example 12.5)
+ 6 Write a JAVA program to find if there exists a path between any two vertices of a graph (Example 12.7)
+ 7 Given a source vertex and a destination vertex, write a JAVA program to find all the possible paths from source to destination. 
+
+                                                      
+
+                                                       Lab Assignment 2: Graph Algorithms 
+ 1 Write a JAVA program to print all the paths from a source vertex to a destination vertex.
+ 
+ 2 Write a JAVA program to find the distance between source and destination vertex in a graph.
+ 3 Given a directed graph, write a JAVA program to find if there exists a cycle in the graph.
+
+ 4 Given an undirected graph, write a JAVA program to find if there exists a cycle in the graph using disjoint sets data structure. 
+ 5 Given a directed graph, write a JAVA program to find if this graph is strongly connected or not. 
+ 6 Write a JAVA program to implement Prims Algorithm using adjacency matrix
+
+
+
+                                                        Lab Assignment 3: Hashing
+
+ 
+q1# Write a JAVA program to implement hashing using linear probing.
+q2# Write a JAVA program to implement hashing using quadratic probing.
+q3# Write a JAVA program to implement hashing using separate chaining.
+
+
+                                                        Lab Assignment 4: String Matching Algorithms
+ 1 Write a JAVA program to match two strings (using BRUTE Force approach)
+ 2 Write a JAVA program to match two strings using Rabin Karp algorithm.
+ *String Matching- Given a string T= ”abcdefghij” and a pattern P=”def”, you have to find
+ whether substring/pattern ”def” is present in given string or not.
+ 
+
+
+                                                        Lab Assignment 5: String Algorithms
+ 1 Write a JAVA program to find the presence of matching order of string. (e.g.
+ T=”ABCDEFGHIJ”, M=”BEFJ”- matching order- yes, M=”BHDJ”-matching order-no.
+ 2 Write a JAVA program to find if a string has unique characters or not.
+ 3 Write a JAVA program to convert the case of string (upper to lower case and lower to
+ upper case). e.g.- abcdEFGH converted to ABCDefgh
+ 4 Write a JAVA program to check if a string is palindrome or not.
+ 5 Write a JAVA program to compare the equality of two strings.
+ 6 Write a JAVA program to reverse a string.
+ 7 Write a JAVA program to contatenate two strings. e.g. A= abc, B= DEF, concatenated
+ string A.B = abcDEF
+ 
+
+
+
+
+                                                        Lab Assignment 6: Greedy Algorithms
+ 1 Write a JAVA program to implement fractional knapsack problem using greedy heuristic of
+ profit/weight.
+ 2 Write a JAVA program to implement interval scheduling problem.
+ 
+
+
+                                                       Lab Assignment 7: Greedy Algorithms
+ 1 Write a JAVA program to implement huffman coding algorithm.
+ 
